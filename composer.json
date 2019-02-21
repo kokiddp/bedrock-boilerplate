@@ -74,6 +74,7 @@
     "kokiddp/wpml-translation-management": "2.8.1",
     "kokiddp/types": "3.2.6",
     "kokiddp/wp-views": "2.7.3",
+    "kokiddp/layouts": "2.5.2",
     "wpackagist-plugin/classic-editor": "1.4"
   },
   "require-dev": {
