@@ -1,9 +1,9 @@
 {
-  "name": "roots/bedrock",
+  "name": "kokiddp/bedrock",
   "type": "project",
   "license": "MIT",
   "description": "WordPress boilerplate with modern development tools, easier configuration, and an improved folder structure",
-  "homepage": "https://roots.io/bedrock/",
+  "homepage": "https://github.com/kokiddp/bedrock",
   "authors": [
     {
       "name": "Scott Walkinshaw",
@@ -14,6 +14,11 @@
       "name": "Ben Word",
       "email": "ben@benword.com",
       "homepage": "https://github.com/retlehs"
+    },
+    {
+      "name": "Gabriele Coquillard",
+      "email": "gabriele.coquillard@gmail.com",
+      "homepage": "https://github.com/kokiddp"
     }
   ],
   "keywords": [
@@ -65,15 +70,15 @@
     "composer/installers": "^1.4",
     "vlucas/phpdotenv": "^3.0.0",
     "oscarotero/env": "^1.1.0",
-    "roots/wordpress": "5.0.3",
+    "roots/wordpress": "5.1",
     "roots/wp-config": "1.0.0",
     "roots/wp-password-bcrypt": "1.0.0",
     "kokiddp/sitepress-multilingual-cms": "4.2.1",
     "kokiddp/wpml-string-translation": "2.10.1",
     "kokiddp/wpml-media-translation": "2.5.0",
     "kokiddp/wpml-translation-management": "2.8.1",
-    "kokiddp/types": "3.2.6",
-    "kokiddp/wp-views": "2.7.3",
+    "kokiddp/types": "3.2.7",
+    "kokiddp/wp-views": "2.7.4",
     "kokiddp/layouts": "2.5.2",
     "wpackagist-plugin/classic-editor": "1.4"
   },
